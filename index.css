@@ -1,0 +1,61 @@
+body{
+    font-family: 'Comfortaa',cursive ;
+    margin: 0; 
+}
+h1{
+    font-size: x-large;
+}
+.gold-color{
+    color: gold ;
+}
+.flexible-container{
+    display: flex;
+   margin-bottom: 100px;
+}
+
+.half-width {
+    width: 50%;
+    margin-left: 2%;
+    margin-right: 20px;
+}
+.half-width p{
+    line-height: 30px;
+    
+}
+
+#rm_pic{
+    width: 50%;
+    margin-right: 2%;
+}
+
+
+.half-width img{
+    width: 70%;
+    margin-left: 70px;
+    margin-top: 15px;
+}
+
+.link-button{
+    text-decoration: none;
+    width: 40px;
+    padding:10px 10px;
+    background-image:linear-gradient(cyan,gray,indigo) ;
+    color: white;
+    border-radius: 5px;
+    
+}
+ .top-banner{
+    background-image: url(prac-images/top-banner.png);
+    background-repeat: no-repeat;
+
+} 
+#help-pic{
+    height: 300px;
+    width: 450px;
+    border-radius: 10px;}
+
+    .big-player-banner{
+        background-image: url(prac-images/dream-bg.png);
+        background-repeat: no-repeat;
+        background-position: top right;
+    }
