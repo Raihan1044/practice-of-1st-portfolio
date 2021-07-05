@@ -114,3 +114,8 @@ h1{
     background-repeat: no-repeat;
     background-position: top left;
 }
+#manu-logo{
+    background-image: url(prac-images/manu-logo.png);
+   background-repeat: no-repeat;
+   background-position:top right ;
+}
