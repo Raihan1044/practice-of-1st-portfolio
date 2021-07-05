@@ -119,3 +119,8 @@ h1{
    background-repeat: no-repeat;
    background-position:top right ;
 }
+#real-madrid-logo{
+    background-image: url(prac-images/real-madrid-logo.png);
+    background-repeat: no-repeat;
+    background-position: top right;
+}
