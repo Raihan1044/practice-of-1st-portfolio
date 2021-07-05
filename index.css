@@ -13,6 +13,9 @@ h1{
     display: flex;
    margin-bottom: 100px;
 }
+#for-margin,p,h1,h3,a{
+margin-left: 25px;
+}
 
 .half-width {
     width: 50%;
@@ -50,10 +53,6 @@ h1{
     background-repeat: no-repeat;
 
 } 
-#help-pic{
-    height: 300px;
-    width: 450px;
-    border-radius: 10px;}
 
     .big-player-banner{
         background-image: url(prac-images/dream-bg.png);
