@@ -112,8 +112,10 @@ h1{
 .expare-banner{
     background-image: url(prac-images/exp-bg.png);
     background-repeat: no-repeat;
-    background-position: top left;
+    background-position: top left; 
 }
+
+
 #manu-logo{
     background-image: url(prac-images/manu-logo.png);
    background-repeat: no-repeat;
@@ -123,4 +125,14 @@ h1{
     background-image: url(prac-images/real-madrid-logo.png);
     background-repeat: no-repeat;
     background-position: top right;
+}
+footer p{
+    text-align: center;
+} 
+
+
+footer p span{
+    font-weight: 700;
+    color: indigo;
+    text-shadow: 10px 10px 8px grey;
 }
